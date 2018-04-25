@@ -25,7 +25,7 @@ SECRET_KEY = '=4muj*!#bed5%o#25gk7&9=d@$z(%e0q8sgu%z$m5$3dlv78!!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['azr101-python.azurewebsites.net']
 
 
 # Application definition
